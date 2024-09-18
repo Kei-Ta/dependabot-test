@@ -1,6 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "npm" # 使用しているパッケージマネージャーを指定（npmの場合）
-    directory: "/"           # package.jsonが存在するディレクトリ
-    schedule:
-      interval: "daily"     # 更新頻度。daily, weekly, monthlyが指定可能
